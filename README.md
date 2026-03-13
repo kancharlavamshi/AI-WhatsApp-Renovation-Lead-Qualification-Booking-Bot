@@ -30,7 +30,7 @@ WhatsApp Confirmation Message
 
 Below is the n8n workflow used in this project.
 
-![Workflow Architecture](n8n (2).png)
+![Workflow Architecture](n8n_1.png)
 
 
 ---
