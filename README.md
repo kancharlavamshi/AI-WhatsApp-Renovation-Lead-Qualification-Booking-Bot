@@ -80,3 +80,28 @@ After scheduling, the user receives confirmation directly on WhatsApp.
 The system remembers information provided across multiple messages.
 
 Example interaction:
+
+User: kitchen renovation
+User: under 10k
+User: India
+User: krishna@email.com
+User: 16 March 7pm
+
+
+The AI combines this data to create the appointment.
+
+---
+
+## Technologies Used
+
+| Tool | Purpose |
+|-----|------|
+| n8n | Workflow automation |
+| Groq LLM | AI conversational agent |
+| WhatsApp Cloud API | Messaging interface |
+| Google Calendar API | Meeting scheduling |
+| JavaScript (n8n Code Node) | Action parsing |
+| Conversation Memory | Context management |
+
+---
+
